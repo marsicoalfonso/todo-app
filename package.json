@@ -1,12 +1,12 @@
 {
-  "name": "nodejs-todo",
+  "name": "todo-app",
   "version": "1.0.0",
-  "description": "A simple to do list app ",
-  "main": "index.js",
+  "description": "todo-app",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vanessa Ating",
+  "author": "Alfonso Marsico",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.0",
