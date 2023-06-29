@@ -1,3 +1,5 @@
 # todo-app
-  init: npm i
-  start: node index.js
+
+- init: npm i
+  
+- start: node index.js
